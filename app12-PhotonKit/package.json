@@ -1,0 +1,27 @@
+{
+  "name": "app12",
+  "version": "1.0.0",
+  "description": "app12 usando ElectronJS",
+  "main": "app.js",
+  "mac": {
+    "icon": "./vs-code-navidad.png"
+  },
+  "scripts": {
+    "dev": "electron app.js"
+  },
+  "keywords": [
+    "electron",
+    "nodejs",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Felipe Hernandez Palafox",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "electron": "^10.1.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
